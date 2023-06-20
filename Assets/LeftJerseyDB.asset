@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19f9d7f0b0ca84831bca94ffdc717417, type: 3}
+  m_Name: LeftJerseyDB
+  m_EditorClassIdentifier: 
+  jersey:
+  - jerseySprite: {fileID: 21300000, guid: 32803fe07d8dd439cb99b9053a26bd7b, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: 28d6463be34d742b89ddb640bcb39553, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: 67e7c20696ac0457ab1c0fdea204bc4d, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: 31352da0559e942efb2881e623e58ef9, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: 7c17f33ca6e1f4b87a9654196fbc2dcf, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: cf89b7cfa8ed34c8bbb47d541a90c417, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: 9f446a5a44c8d46d1993ce1075915215, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: 0b5129904f3dd44eabda2b66e5a94666, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: 6d3fb2a843de4420fb65ad2397e29676, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: b05d81970ce24497c81aad7d6f268519, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: 2caba3e26359c4b36996f7deb7adf99f, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: cc7503e1e4d8e4ef89c49e923c4a66a4, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: b98a6316b4cbb48ebb879250295b11e7, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: 9de3b7f6511094feb9aff087ea45a688, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: 032080f2622cb45249a2903f9535d218, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: 33b0425b37093472296cd2c435db23fd, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: c561ef25bc9e04ff097a871c919f80bb, type: 3}
+  - jerseySprite: {fileID: 21300000, guid: a765765d2d8974cb0b159de427335b3b, type: 3}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 43876e94f71ea4368b4b7a5b9b317ad6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Left_Player: {instanceID: 0}
+  - Left_BonusFreezeActive: {instanceID: 0}
+  - Right_Player: {instanceID: 0}
+  - Right_BonusFreezeActive: {instanceID: 0}
+  - layout: {fileID: 11400000, guid: 53b5af3f638264ee88a1f55de78ad627, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
